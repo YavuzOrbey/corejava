@@ -1,0 +1,2 @@
+Student{id=1, name='Yavuz', courses=[math,  science,  reading,  gym], gpa=2.299999952316284}
+Student{id=1, name='Jim', courses=[humanties,  social studies,  gym], gpa=2.5999999046325684}
